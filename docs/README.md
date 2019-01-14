@@ -26,7 +26,7 @@ php artisan queue:listen
 
 ## 動作確認
 
-http://mockup-generator.test
+https://mockup.takeys.link/
 にアクセスする
 
 
